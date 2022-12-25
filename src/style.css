@@ -1,0 +1,53 @@
+.header {
+  background: white;
+  text-align: center;
+  font-size: larger;
+
+}
+
+.maincontainer {
+  margin:0 auto;
+  margin-top:50px;
+  text-align: center;
+  background-color:#e0dbdb;
+  width: max-content;
+  padding: 20px;
+  border-radius: 20px
+}
+
+.options {
+  margin:0 auto;
+  margin-top:50px;
+  text-align: center;
+  background-color:#e0dbdb;
+  width: 50%;
+  padding: 20px;
+  border-radius: 20px
+}
+
+
+.centerButton {
+  margin:0 auto;
+  margin-top:50px;
+  text-align: center;
+}
+
+.revealButton {
+  margin:0 auto;
+  text-align: center;
+}
+.hideButton {
+  margin:0 auto;
+  text-align: center;
+  background-color: #ed8989;
+  border-radius: 3px;
+}
+
+
+.columns {
+  display: flex;
+}
+.column {
+  margin: 0px 30px;
+}
+
